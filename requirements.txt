@@ -1,6 +1,0 @@
-# Web development server (optional - for local development)
-http-server==14.1.1
-
-# Alternative Python-based server (optional)
-# Uncomment if you prefer Python's built-in server
-# No additional packages needed - use: python -m http.server 8000
